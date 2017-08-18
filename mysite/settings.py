@@ -25,7 +25,7 @@ SECRET_KEY = 'o0^^bx8kyrvgs4&vdp78)b#fgpn_6ysg*0&@^k^waq*hm2y3*h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Mitterdini>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Mitterdini.pythonanywhere.com']
 
 
 # Application definition
