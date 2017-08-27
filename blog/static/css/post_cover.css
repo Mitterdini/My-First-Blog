@@ -45,8 +45,9 @@ p {
 	margin: auto;
 }
 #header p {
-	font-size: 25pt;
-	color: #3b464c;
+	font-family: cursive;
+	font-size: 30pt;
+	color: #000000;
 	padding-top: 5px;
 	margin: 0;
 	font-weight: bold;
